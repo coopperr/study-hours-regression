@@ -1,4 +1,4 @@
-# 📈 Simple Linear Regression — Study Hours vs Scores
+#  Simple Linear Regression — Study Hours vs Scores
 
 This project demonstrates a basic **Simple Linear Regression** model 
 to predict students' scores based on the number of study hours.
